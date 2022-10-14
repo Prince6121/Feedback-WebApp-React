@@ -1,3 +1,10 @@
 //
 
 new button added
+
+function sayHello() {
+  alert('You clicked me!');
+}
+
+// Code
+<button onClick={sayHello}>Default</button>;
