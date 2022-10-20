@@ -8,3 +8,9 @@
     - set MAIL_SERVICE=aws
     - npm i
     - npm start
+
+
+# Integrate Project (React) 
+    - git clone
+    - yarn
+    - yarn start
