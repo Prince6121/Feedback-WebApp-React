@@ -1,5 +1,12 @@
 # Requirements
     Node 14
+   
+# Integrate Project (Angular) 
+    - git clone
+    - npm i
+    - ng serve
+
+
 
 # Integrate Project (Node API) 
     - git clone
